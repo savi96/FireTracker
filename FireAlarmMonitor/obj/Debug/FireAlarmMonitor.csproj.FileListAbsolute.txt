@@ -1,0 +1,12 @@
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\bin\Debug\FireAlarmMonitor.exe.config
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\bin\Debug\FireAlarmMonitor.exe
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\bin\Debug\FireAlarmMonitor.pdb
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.csprojAssemblyReference.cache
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.Form1.resources
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.Properties.Resources.resources
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.csproj.GenerateResource.cache
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.csproj.CoreCompileInputs.cache
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.exe
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.pdb
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.Home.resources
+C:\Users\HansikaPerera\Desktop\Fire Alarm\FireAlarmMonitor\FireAlarmMonitor\obj\Debug\FireAlarmMonitor.FireDetails.resources

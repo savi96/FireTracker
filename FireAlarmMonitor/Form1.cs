@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FireAlarmMonitor
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            panel2.BackColor = Color.FromArgb(100, 0, 0, 0);
+            panel3.BackColor = Color.FromArgb(100, 0, 0, 0);
+        }
+
+        private void LoginBtn_Click(object sender, EventArgs e)
+        {
+            Home h1 = new Home();
+            this.Hide();
+            h1.Show();
+        }
+    }
+}
